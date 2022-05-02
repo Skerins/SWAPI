@@ -1,0 +1,7 @@
+name: swapiblock
+type: module
+description: 'Displays Star Wars block'
+package: Custom
+core: 8.x
+
+
